@@ -1,0 +1,24 @@
+# Ignore Git files
+.git
+.github
+.gitignore
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
+docker-compose.yaml
+compose.yml
+compose.yaml
+
+# Ignore Jekyll cache and build directories
+_site
+.sass-cache
+.jekyll-cache
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore misc files
+CNAME
+README.md

@@ -6,5 +6,10 @@ _site/
 .bundle/
 vendor/
 
-.dockerignore
+# Ignore Docker files
 Dockerfile
+docker-compose.yml
+docker-compose.yaml
+compose.yml
+compose.yaml
+.docker.env
