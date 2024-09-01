@@ -61,9 +61,6 @@ author:
   avatar: "https://media.licdn.com/dms/image/v2/D4D03AQF8lc_RV2OifA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709055832754?e=1730937600&v=beta&t=cx3DON1_g9HGrm-8pyXiDoqA2nokDgKJuiBLW164gg0"
   bio: "Cloud Engineer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NektariosMarmaras"
