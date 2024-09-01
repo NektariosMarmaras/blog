@@ -49,8 +49,6 @@ jobs:
           ls -la .
           echo 'Checking directory ./_site'
           ls -la ./_site
-          echo 'Checking directory ./_site/assets'
-          ls -la ./_site/assets
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
