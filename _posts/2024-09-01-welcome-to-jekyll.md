@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2024-09-01T18:47:00+03:00
+date: 2024-09-01T18:47:00
 categories:
   - blog
 tags:
