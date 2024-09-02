@@ -11,7 +11,7 @@ tags:
 
 **Introduction**
 
-In this guide, we'll build and serve our Jekyll site using a multi-stage Dockerfile. This approach is highly efficient because it separates the build and runtime environments.
+In this guide, we'll build and serve our Jekyll site using a multi-stage Dockerfile. This approach is highly efficient because it separates the build and runtime environments. Also, we can utilize the Docker to install the site's dependencies in an isolated environment
 
 
 ### Why use a Multi-Stage Dockerfile?
