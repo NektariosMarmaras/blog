@@ -1,6 +1,6 @@
 ---
 title: "How to Build and Serve Jekyll for GitHub Pages Locally Using Docker with Multi-Stage Builds"
-date: 2024-09-02T9:30:00
+date: 2024-09-02 09:30:00
 categories:
   - Jekyll
   - Docker
