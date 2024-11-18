@@ -61,7 +61,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-G9WQCM44LJ"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
 
 author:
   name: "Nektarios Marmaras"
