@@ -56,12 +56,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-G9WQCM44LJ"
-    anonymize_ip: true # default
+# # Analytics
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-G9WQCM44LJ"
+#     anonymize_ip: true # default
 
 author:
   name: "Nektarios Marmaras"
