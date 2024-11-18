@@ -56,8 +56,15 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-G9WQCM44LJ"
+    anonymize_ip: false # default
+
 author:
-  name: "Nektarios Marmaras"            
+  name: "Nektarios Marmaras"
   avatar: "https://media.licdn.com/dms/image/v2/D4D03AQF8lc_RV2OifA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709055832754?e=1736985600&v=beta&t=zZk5Sw1Me4wccGwpej3aLZTQCe8_eakFiqxtawWnOss" # "assets/images/bio-photo.jpg"
   bio: "Cloud Engineer"
   links:

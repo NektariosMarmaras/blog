@@ -1,5 +1,5 @@
 ---
-title: "How to Build and Serve Jekyll for GitHub Pages Locally Using Docker with Multi-Stage Builds"
+title: "Effortlessly Build and Serve Jekyll Sites: A Step-by-Step Guide to Using Multi-Stage Dockerfiles"
 categories:
   - Jekyll
   - Docker
